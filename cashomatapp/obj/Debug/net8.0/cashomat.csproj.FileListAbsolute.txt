@@ -1,0 +1,14 @@
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\bin\Debug\net8.0\cashomat.exe
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\bin\Debug\net8.0\cashomat.deps.json
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\bin\Debug\net8.0\cashomat.runtimeconfig.json
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\bin\Debug\net8.0\cashomat.dll
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\bin\Debug\net8.0\cashomat.pdb
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\cashomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\cashomat.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\cashomat.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\cashomat.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\cashomat.dll
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\refint\cashomat.dll
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\cashomat.pdb
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\cashomat.genruntimeconfig.cache
+C:\Users\alper\OneDrive\Desktop\C# Proje\cashomat\obj\Debug\net8.0\ref\cashomat.dll
